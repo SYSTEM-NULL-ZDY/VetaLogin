@@ -1,1 +1,1 @@
-result = MsgBox("η”µθ„‘θΆ«εΌ„εδΊ†ε°±ε—η€ε‘—", vbYesNo + vbQuestion, "η”µθ„‘θΆ«εΌ„εδΊ†ε°±ε—η€ε‘—")
+result = MsgBox("µηΔΤ±»Εª»µΑΛΎΝΚάΧΕίΒ", vbYesNo + vbQuestion, "µηΔΤ±»Εª»µΑΛΎΝΚάΧΕίΒ")
